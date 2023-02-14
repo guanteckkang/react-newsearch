@@ -1,0 +1,11 @@
+* {
+  text-decoration: none;
+  color: black;
+}
+.topbar {
+  display: flex;
+  justify-content: space-between;
+}
+.box {
+  border-radius: solid 1px black !important;
+}
